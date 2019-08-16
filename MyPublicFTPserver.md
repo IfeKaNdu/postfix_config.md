@@ -12,7 +12,7 @@ In this article, we will look into the following:
 6. Accessing the server with a mail server client.
 -------------------------------------------------------------- 
 
-### 1. The postfix server installation
+# 1. The postfix server installation
 Postfix can be installed by using the following command:
 ```bash
 [root@server ~]# yum remove sendmail
